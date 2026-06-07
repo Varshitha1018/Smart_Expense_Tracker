@@ -4,7 +4,6 @@ A secure web-based personal finance management application built
 with Python and Flask.  
 📌 MSc Computer Science Dissertation — **Distinction**
 
----
 
 ## 📋 About The Project
 
@@ -12,7 +11,6 @@ Smart Expense Tracker helps users manage personal finances with
 secure authentication, income and expense tracking, budget management, 
 and a real-time dashboard for financial insights.
 
----
 
 ## ✨ Features
 
@@ -26,7 +24,6 @@ and a real-time dashboard for financial insights.
 - ✅ Form validation and error handling
 - 🔗 RESTful architecture with Flask
 
----
 
 ## 🛠️ Built With
 
@@ -40,7 +37,6 @@ and a real-time dashboard for financial insights.
 | HTML5/CSS3 | Frontend templates |
 | Jinja2 | Template engine |
 
----
 
 ## 🚀 Getting Started
 
@@ -73,7 +69,6 @@ database='exp_tracker'
 python app.py
 ```
 
----
 
 ## 📁 Project Structure
 
@@ -86,7 +81,6 @@ Smart Expense Tracker
 └── templates/          # HTML templates
 
 
----
 
 ## 👩‍💻 Author
 
